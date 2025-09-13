@@ -2,7 +2,7 @@
 
 > Status: Projeto Concluído ✔️
 
-Este repositório contém o código-fonte do website institucional para a **Casa de Carne FJI**, um projeto acadêmico focado no desenvolvimento front-end com HTML, CSS e JavaScript puros, aplicando conceitos de UI/UX para uma experiência de usuário limpa e funcional.
+Este repositório contém o código-fonte do website institucional para a **Casa de Carne FS**, um projeto acadêmico focado no desenvolvimento front-end com HTML, CSS e JavaScript puros, aplicando conceitos de UI/UX para uma experiência de usuário limpa e funcional.
 
 ## 🖥️ Demonstração
 
